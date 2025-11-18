@@ -4786,9 +4786,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
-      "projectName": "KASHOP.PL",
-      "projectPath": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
+      "projectUniqueName": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.PL\\KASHOP.PLL.csproj",
+      "projectName": "KASHOP.PLL",
+      "projectPath": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.PL\\KASHOP.PLL.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.PL\\obj\\",
       "projectStyle": "PackageReference",
