@@ -11,5 +11,6 @@ namespace KASHOP.DAl.Data
         }
 
         public DbSet<Categores> Catgores { get; set; }
+        public DbSet <CategoryTranslation>transelation { get; set; }
     }
 }

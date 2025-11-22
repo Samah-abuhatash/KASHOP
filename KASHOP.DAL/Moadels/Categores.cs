@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace KASHOP.DAl.Moadels
 {
-    public class Categores
+    public class Categores: Basemodels
     {
-        public int Id {  get; set; }
-        public string Name { get; set; }
+       
+        public List<CategoryTranslation> translations { get; set; }
 
     }
 }

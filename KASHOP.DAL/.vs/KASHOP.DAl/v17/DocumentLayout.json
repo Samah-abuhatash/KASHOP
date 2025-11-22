@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\api\\project-api\\kashop\\kashop.dal\\moadels\\categores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|solutionrelative:moadels\\categores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\api\\project-api\\kashop\\kashop.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\api\\project-api\\kashop\\kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EF83E82-B1A6-38AC-FBE0-83882589AF42}|KASHOP.DAl.csproj|solutionrelative:kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categores.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\Moadels\\Categores.cs",
+              "RelativeDocumentMoniker": "Moadels\\Categores.cs",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\Moadels\\Categores.cs",
+              "RelativeToolTip": "Moadels\\Categores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:44:46.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KASHOP.DAl",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\KASHOP.DAl.csproj",
+              "RelativeDocumentMoniker": "KASHOP.DAl.csproj",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\KASHOP.DAl.csproj",
+              "RelativeToolTip": "KASHOP.DAl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T13:43:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\api\\project-api\\KASHOP\\KASHOP.DAL\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:42:58.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
